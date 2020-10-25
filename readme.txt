@@ -2,7 +2,7 @@
 
 1. Install requirements via
 
->> cd cs235a2
+>> cd <this directory>
 >> pip install -r requirements.txt
 
 
